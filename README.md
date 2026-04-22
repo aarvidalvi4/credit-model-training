@@ -121,8 +121,8 @@ streamlit run app.py
 ---
 
 ## Author:
-Aarvi Amol Dalvi
-Machine Learning Enthusiast
+Aarvi Amol Dalvi--
+Machine Learning Enthusiast--
 BSc First year (Computing)
 
 
