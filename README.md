@@ -27,8 +27,13 @@ The model is deployed using Streamlit for real-time user interaction.
 
 ---
 
-## How to Run the Project
+## How to Run the project
 
-### 1. Install dependencies
-```bash
+Install dependencies:
 pip install -r requirements.txt
+
+Run app:
+streamlit run app.py
+
+## Project Info
+Machine learning model predicts credit risk using financial data.
